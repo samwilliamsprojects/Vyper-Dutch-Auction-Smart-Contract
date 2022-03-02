@@ -1,0 +1,15 @@
+{
+  "contracts": {
+    "DutchAuction": "c776771e81a910c3f103788f631a91c996cbe7db"
+  },
+  "tests": {
+    "tests/test_DA.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": ".",
+      "sha1": "960b23f293c2af803d733591b83e70cb9471b16b",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
