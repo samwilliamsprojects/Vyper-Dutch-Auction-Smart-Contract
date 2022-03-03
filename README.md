@@ -1,6 +1,4 @@
 # Vyper-Dutch-Auction-Smart-Contract
 A dutch auction smart contract for token buying, written in Vyper (the smart-contract language closely related to Python).
-Dutch Auctions are very common for NFT sales, but have not often been used for the initial coin offering.
-I wrote this smart contract when I saw a need for it by some guy on Reddit. He pointed out that it currently exists online in Solidity, but could not find one in Vyper.
-Seeing as theres many different ways to create a token, to use this program you must initialize a token and add a delivery method for it to the buyer.
+Dutch Auctions are very common for NFT sales, but have not often been used for the initial coin offering. They are particularly useful for determining the value of something that is not clear, such as an NFT or a token that has not been released before. This style of auction existed online in Solidity but not Vyper. Must add the method of token creation before it can be deployed.
 The folder is an eth-brownie folder and includes the tests I wrote in pytest.
